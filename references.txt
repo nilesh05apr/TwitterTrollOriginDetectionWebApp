@@ -1,0 +1,89 @@
+naive Bayes classification theory:
+-------------------------------------------------------
+https://arxiv.org/pdf/1410.5329.pdf
+
+To convert JSON dataset to dataframe:
+--------------------------------------------------------------
+https://pandas.pydata.org/pandas-docs/version/1.1.3/reference/api/pandas.read_json.html
+
+Tweet pre-processing ekphrasis package:
+------------------------------------------------------------------
+DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis, "Baziotis, Christos  and Pelekis,  Nikos  and Doulkeridis, Christos"
+
+https://github.com/cbaziotis/ekphrasis
+
+NLTK:
+-----
+https://www.nltk.org/
+https://www.nltk.org/nltk_data/
+https://pythonprogramming.net/stop-words-nltk-tutorial/
+
+emoji python package:
+------------------------------------
+https://pypi.org/project/emoji/
+
+sklearn train-test-split:
+------------------------------------
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+sklearn pipeline:
+---------------------------
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+
+CountVectorizer: 
+--------------------------
+https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+
+TfidfTransformer:
+-----------------------------
+https://towardsdatascience.com/tf-idf-explained-and-python-sklearn-implementation-b020c5e83275
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html
+
+MultinomialNB (the classification algorithm used):
+-------------------------
+https://www.upgrad.com/blog/multinomial-naive-bayes-explained/
+
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+
+joblib(to save and load ml models):
+---------
+https://joblib.readthedocs.io/en/latest/
+
+evaluation metrics:
+-------------------------------
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+
+Python based UI framework used:
+-----------------------------------------------------
+https://streamlit.io/
+https://docs.streamlit.io/en/stable/
+
+Python sqlite ( To store user credentials for UI in sqlite db)
+https://docs.python.org/3/library/sqlite3.html
+
+tweet api
+---------
+https://developer.twitter.com/en/docs/twitter-api/v1
+https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets
+https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet
+
+tweepy
+-------
+https://docs.tweepy.org/en/v3.5.0/cursor_tutorial.html
+
+
+Cities and their coordinates:
+-----------------------------
+http://download.geonames.org/export/dump/readme.txt
+
+Map visualization using folium:
+-------------------------------
+http://python-visualization.github.io/folium/
+
+Find similar troll tweets from last 7 days tweet (origin):
+----------------------------------------------------------
+https://pypi.org/project/rank-bm25/
+
+
