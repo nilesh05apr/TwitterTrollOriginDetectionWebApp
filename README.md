@@ -10,7 +10,8 @@ install all required libraries
  to run   
   - streamlit run app.py  
   
-  The webapp is deployed on heroku at https://twittertrollorigindetection.herokuapp.com/
+  The webapp is deployed on heroku at https://twittertrollorigindetection.herokuapp.com/  
+  or at https://nilesh05apr-twittertrollorigindetectionwebapp-app-5immd1.streamlitapp.com/  
   There are some errors which need help.
   
   
